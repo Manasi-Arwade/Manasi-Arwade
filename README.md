@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manasi</h1>
-<h3 align="center">Certainly! Here's a simpler version: I'm a Python developer who loves both frontend work and diving into cloud technologies. This means I'm comfortable building sleek user interfaces and also enjoy tinkering with cloud platforms like AWS or GCP.</h3>
+<h3 align="center"> I'm a Python developer who loves both frontend work and diving into cloud technologies. This means I'm comfortable building sleek user interfaces and also enjoy tinkering with cloud platforms like AWS or GCP.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasi-arwade&label=Profile%20views&color=0e75b6&style=flat" alt="manasi-arwade" /> </p>
 
